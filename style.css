@@ -1,0 +1,131 @@
+/* Colors and Fonts */
+body {
+	background: #d5ecc2;
+	color:black;
+	font-family: PT Serif;
+	font-size: 16px;
+}
+h1 {
+	font-size: 35px;
+	text-align: center;
+	font-weight: bold;
+}
+h5 { 
+	font-style: italic;
+	font-size:18px;
+ }
+ h2 {
+ 	font-family:Lora;
+ }
+ h3 { 
+ 	font-weight: lighter;
+ 	text-decoration: underline;
+
+  }
+
+img {
+	border-radius: 30%;
+	text-align: center;
+}
+a: {
+	color:black;
+}  
+.container {
+	width: 800px;
+	margin: 35px auto;
+	padding:20px;
+	box-shadow: 0px 5px 10px rgba(0,10,10,10);
+	background: #fcecdd;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	text-align: center;
+	margin-right: auto;
+	width: 170px;
+	height: 170px;
+}
+.quote-Nike {
+	text-align: right; 
+	font-size:10px;
+}
+.quote { 
+	text-align: right;
+ }
+ .card-black {
+ 	text-align: justify;
+ 	font-size: 15px;
+ 	width: 800px;
+	margin: 35px auto;
+	padding:20px;
+	box-shadow: 0px 5px 10px rgba(0,10,10,10);
+	background: #fcecdd;
+
+}
+ .card-Kuba {
+ 	text-align: justify;
+ 	font-size: 15px;
+ 	width: 800px;
+	margin: 35px auto;
+	padding:20px;
+	box-shadow: 0px 5px 10px rgba(0,10,10,10);
+	background: #fcecdd;
+
+ }
+ .education {
+    text-align: justify;
+ 	font-size: 15px;
+ 	width: 800px;
+	margin: 35px auto;
+	padding:20px;
+	box-shadow: 0px 5px 10px rgba(0,10,10,10);
+	background: #fcecdd;
+ }
+  
+ .snorlax {
+ 	text-align: justify;
+ 	font-size: 15px;
+ 	width: 800px;
+	margin: 35px auto;
+	padding:20px;
+	box-shadow: 0px 5px 10px rgba(0,10,10,10);
+	background: #fcecdd;
+ }
+ .work-experience {
+ 	text-align: justify;
+ 	font-size: 15px;
+ 	width: 800px;
+	margin: 35px auto;
+	padding:20px;
+	box-shadow: 0px 5px 10px rgba(0,10,10,10);
+	background: #fcecdd;
+ }
+
+ .blastoise {
+ 	text-align: justify;
+ 	font-size: 15px;
+ 	width: 800px;
+	margin: 35px auto;
+	padding:20px;
+	box-shadow: 0px 5px 10px rgba(0,10,10,10);
+	background: #fcecdd;
+ }
+.obstagoon {
+	text-align: justify;
+ 	font-size: 17px;
+ 	width: 800px;
+	margin: 35px auto;
+	padding: 20px;
+	box-shadow: 0px 5px 10px rgba(0,10,10,10);
+	background: #fcecdd;
+}
+
+
+
+
+
+
+
+
+
+
